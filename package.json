@@ -1,0 +1,23 @@
+{
+  "name": "unimetrocamp",
+  "version": "1.0.0",
+  "description": "API Node.JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/carloseduardo76/capacitacao-api-unimetrocamp.git)"
+  },
+  "author": "Carlos Eduardo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
